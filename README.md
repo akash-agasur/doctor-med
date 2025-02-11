@@ -4,12 +4,8 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/akash-agasur/doctor-med)
-- Live Site URL: [vercel Link](https://social-proof-section-delta-nine.vercel.app/)
+- Live Site URL: [vercel Link](https://doctor-med.vercel.app/)
 
-### ScreenShot
-
-![Desktop](./design/desktop-design.jpg)
-![Mobile](./design/mobile-design.jpg)
 
 ### Author
 
